@@ -25,8 +25,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamdepzaiahihi&show_icons=true&locale=en&layout=compact" alt="tamdepzaiahihi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamdepzaiahihi&show_icons=true&locale=en" alt="tamdepzaiahihi" /></p>
-
-![snake gif](https://github.com/Tamdepzaiahihi/Tamdepzaiahihi/blob/output/github-contribution-grid-snake.gif)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamdepzaiahihi&" alt="tamdepzaiahihi" /></p>
+
+## Watch snake eating
+![snake gif](https://github.com/Tamdepzaiahihi/Tamdepzaiahihi/blob/output/github-contribution-grid-snake.svg)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamdepzaiahihi&label=Profile%20views&color=0e75b6&style=flat" alt="tamdepzaiahihi" /> </p>
