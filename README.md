@@ -28,6 +28,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamdepzaiahihi&" alt="tamdepzaiahihi" /></p>
 
 ## Watch snake eating
-![snake gif](https://github.com/Tamdepzaiahihi/Tamdepzaiahihi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/NTTTam2k1/Tamdepzaiahihi/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamdepzaiahihi&label=Profile%20views&color=0e75b6&style=flat" alt="tamdepzaiahihi" /> </p>
