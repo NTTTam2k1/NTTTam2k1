@@ -28,5 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NTTTam2k1&" alt="NTTTam2k1" /></p>
 
 ## Watch snake eating
+
 ![snake gif](https://github.com/NTTTam2k1/NTTTam2k1/blob/output/github-contribution-grid-snake.gif)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NTTTam2k1&label=Profile%20views&color=0e75b6&style=flat" alt="NTTTam2k1" /> </p>
